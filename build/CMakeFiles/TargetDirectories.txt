@@ -1,0 +1,3 @@
+/Users/sawakonotsadako/SFMLProject/build/CMakeFiles/SFMLApp.dir
+/Users/sawakonotsadako/SFMLProject/build/CMakeFiles/edit_cache.dir
+/Users/sawakonotsadako/SFMLProject/build/CMakeFiles/rebuild_cache.dir

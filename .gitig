@@ -1,0 +1,39 @@
+# 무시할 모든 파일을 기본적으로 설정
+*
+
+# 예외 처리하여 Git에 포함될 파일 지정
+!*.cpp
+!*.h
+!CMakeLists.txt
+
+# 특정 디렉토리 포함
+!*/
+
+# 빌드 디렉토리 및 바이너리 파일들 무시
+/build/
+/bin/
+/obj/
+/out/
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+*.lib
+
+# IDE 관련 파일 무시
+.vscode/
+.clion/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 로그 파일 및 기타 무시할 파일들
+*.log
+*.tmp
+*.cache
+
+# 시스템 파일 무시
+.DS_Store
+Thumbs.db

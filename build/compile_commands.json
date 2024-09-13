@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/sawakonotsadako/SFMLProject/build",
+  "command": "/usr/bin/clang++ -I/Users/sawakonotsadako/SFMLProject/include -isystem /opt/homebrew/Cellar/sfml/2.6.1/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/SFMLApp.dir/src/GameClass.cpp.o -c /Users/sawakonotsadako/SFMLProject/src/GameClass.cpp",
+  "file": "/Users/sawakonotsadako/SFMLProject/src/GameClass.cpp",
+  "output": "CMakeFiles/SFMLApp.dir/src/GameClass.cpp.o"
+},
+{
+  "directory": "/Users/sawakonotsadako/SFMLProject/build",
+  "command": "/usr/bin/clang++ -I/Users/sawakonotsadako/SFMLProject/include -isystem /opt/homebrew/Cellar/sfml/2.6.1/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/SFMLApp.dir/src/Monster.cpp.o -c /Users/sawakonotsadako/SFMLProject/src/Monster.cpp",
+  "file": "/Users/sawakonotsadako/SFMLProject/src/Monster.cpp",
+  "output": "CMakeFiles/SFMLApp.dir/src/Monster.cpp.o"
+},
+{
+  "directory": "/Users/sawakonotsadako/SFMLProject/build",
+  "command": "/usr/bin/clang++ -I/Users/sawakonotsadako/SFMLProject/include -isystem /opt/homebrew/Cellar/sfml/2.6.1/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/SFMLApp.dir/src/main.cpp.o -c /Users/sawakonotsadako/SFMLProject/src/main.cpp",
+  "file": "/Users/sawakonotsadako/SFMLProject/src/main.cpp",
+  "output": "CMakeFiles/SFMLApp.dir/src/main.cpp.o"
+}
+]
